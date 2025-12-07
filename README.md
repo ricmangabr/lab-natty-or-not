@@ -17,14 +17,9 @@ Utilizei o Prompt abaixo:
 ## 🚀 Resultados
 Foi produzida uma foto fake que se parecem em muito com uma foto real.
 
-## 💭 Reflexão (Opcional)O resultado é compatível com uma foto real. O uso da IAs na geração de imagens está tornando a diferenciação entre o real e o "fake" cada vez mais difícil de discerniir.
+## 💭 Reflexão
+O resultado é compatível com uma foto real. O uso da IAs na geração de imagens está tornando a diferenciação entre o real e o "fake" cada vez mais difícil de discerniir.
 ```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
 
 ## Links Interessantes
 
